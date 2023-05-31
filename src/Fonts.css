@@ -1,0 +1,15 @@
+h2{
+color: #4682B4;
+}
+
+h3{
+    color: #0047AB;
+}
+
+h4{
+    color: #0F52BA;
+}
+
+p, h2, h3, h4, ul{
+text-align: justify;
+}
